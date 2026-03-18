@@ -1,10 +1,10 @@
-# Sistema de Notas Escolares
+# 🎓 Sistema de Notas Escolares
 
 Sistema de gerenciamento dados academicos via terminal, desenvolvido em Python puro. Permite registrar alunos, ver notas, acompanhar desempenho e manter os dados entre sessões — sem nenhuma dependência externa.
 
 ---
 
-## Funcionalidades
+## 📋 Funcionalidades
 
 - Registrar aluno com nome e notas personalizadas
 - Buscar aluno pelo nome
@@ -14,7 +14,7 @@ Sistema de gerenciamento dados academicos via terminal, desenvolvido em Python p
 
 ---
 
-## Critério de desempenho
+## 📐 Critério de desempenho
 
 | Média        | Situação        |
 |--------------|-----------------|
@@ -40,7 +40,7 @@ sistema_notas_escolares/
 
 ---
 
-## Como usar
+## ❓ Como usar
 
 ### Pré-requisitos
 - Python 3.10 ou superior
@@ -65,7 +65,7 @@ python main.py
 
 ---
 
-## Arquitetura
+## 🧱 Arquitetura
 
 O projeto segue o princípio de **separação de responsabilidades** — cada módulo tem uma função clara e independente:
 
