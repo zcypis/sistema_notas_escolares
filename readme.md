@@ -1,4 +1,4 @@
-# Sistema de Gestão de notas Academicas
+# Sistema de Gestão Academica
 
 Sistema de gerenciamento dados academicos via terminal, desenvolvido em Python puro. Permite registrar alunos, ver notas, acompanhar desempenho e manter os dados entre sessões — sem nenhuma dependência externa.
 
@@ -49,7 +49,7 @@ sistema_notas_escolares/
 
 ```bash
 git clone https://github.com/zcypis/sistema_notas_escolares.git
-cd Gestao_Academica
+cd SGA
 python main.py
 ```
 
