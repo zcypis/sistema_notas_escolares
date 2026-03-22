@@ -11,7 +11,6 @@
 
 >  ![Demo](.github/demo.gif)
 
-
 ---
 
 ## Visão Geral
