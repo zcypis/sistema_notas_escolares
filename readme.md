@@ -9,25 +9,8 @@
 
 ## Demo
 
->  logo...
+>  ![Demo](.github/demo.gif)
 
-```
-=== Gestão Acadêmica ===
-[1] - Registrar aluno
-[2] - Buscar aluno
-[3] - Listar todos
-[4] - Sair...
-=========================
-
-Nome: Ana Lima
-Quantas notas quer informar: 3
-Nota: 8.5
-Nota: 7.0
-Nota: 9.0
-Aluno Ana Lima registrado.
-
-Aluno: ana lima | Média: 8.17 | Situação: aprovado
-```
 
 ---
 
