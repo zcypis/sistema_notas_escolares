@@ -9,7 +9,9 @@
 
 ## Demo
 
->  Em Breve...
+<p align="center">
+  <img src=".github/demo.gif" width="500">
+</p>
 
 ---
 
