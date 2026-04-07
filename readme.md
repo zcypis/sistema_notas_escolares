@@ -106,7 +106,7 @@ main.py
 ### Instalação
 
 ```bash
-git clone https://github.com/zcypis/sistema_notas_escolares.git
+git clone https://github.com/zcypis/SGA
 cd SGA
 python main.py
 ```
